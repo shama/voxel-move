@@ -1,5 +1,9 @@
 # voxel-move
 
+**DEPRECATED: This module isn't really necessary now that
+[voxel-physical](https://github.com/chrisdickinson/voxel-physical), which is built into
+voxel-engine, does movement based on the local axes.**
+
 > Utility for rotation relative based movement in [voxel.js](http://voxeljs.com).
 > This probably totally already exists but I needed it faster than I could
 > google for [voxel-drone](https://github.com/shama/voxel-drone).
